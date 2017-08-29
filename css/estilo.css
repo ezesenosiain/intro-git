@@ -1,4 +1,9 @@
 body {
   font-family: sans-serif;
   color: red;
+  background-color: blue;
+}
+
+h1 {
+  color: green;
 }
